@@ -1,0 +1,10 @@
+1,Asia,Towner,9440,3.36,40,I
+2,Audi,A3,38850,4.15,125,I
+3,Chevrolet,Astra,10532,4.11,110,N
+4,Chevrolet,Blazer,16346,4.60,106,N
+5,Chevrolet,Corsa,6176,3.73,60,N
+6,Chevrolet,Tigra,12890,3.92,100,I
+7,Chevrolet,Vectra,13140,4.47,110,N
+8,Chrysler,Neon,31640,4.36,115,I
+9,Dodge,Dakota,11630,4.98,121,N
+10,Fiat,Fiorino,6700,4.16,76,N

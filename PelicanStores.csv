@@ -23,7 +23,7 @@ Cliente,"Tipo de Cliente",Itens,"Vendas líquidas","Método de Pagamento",Gêner
 22,Promocional,4,70.82,"Cartão Proprietário",Feminino,Casado,38
 23,Promocional,7,266.00,"American,Express",Feminino,Casado,50
 24,Regular,2,74.00,"Cartão Proprietário",Feminino,Casado,42
-25,Promocional,2,39.50,Visa Masculino,Casado,48
+25,Promocional,2,39.50,Visa,Masculino,Casado,48
 26,Promocional,1,30.02,"Cartão Proprietário",Feminino,Casado,60
 27,Regular,1,44.50,"Cartão Proprietário",Feminino,Casado,54
 28,Promocional,5,192.80,"Cartão Proprietário",Feminino,Solteiro,42
